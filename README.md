@@ -4,7 +4,7 @@ This project implements a console-based file encryption and decryption system in
 It supports user authentication, two encryption schemes, and secure storage of encrypted files.  
 The system is designed for introductory-level security applications and coursework.
 
-## Overviev
+## Overview
 
 The program provides the following capabilities:
 
